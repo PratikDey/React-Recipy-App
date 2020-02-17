@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Recipy-App/static/css/main.5204a4df.chunk.css",
+    "main.js": "/React-Recipy-App/static/js/main.434016d3.chunk.js",
+    "main.js.map": "/React-Recipy-App/static/js/main.434016d3.chunk.js.map",
+    "runtime-main.js": "/React-Recipy-App/static/js/runtime-main.423390a8.js",
+    "runtime-main.js.map": "/React-Recipy-App/static/js/runtime-main.423390a8.js.map",
+    "static/js/2.7ef72192.chunk.js": "/React-Recipy-App/static/js/2.7ef72192.chunk.js",
+    "static/js/2.7ef72192.chunk.js.map": "/React-Recipy-App/static/js/2.7ef72192.chunk.js.map",
+    "index.html": "/React-Recipy-App/index.html",
+    "precache-manifest.a0037cf7f76a9d0c416f330b19a13705.js": "/React-Recipy-App/precache-manifest.a0037cf7f76a9d0c416f330b19a13705.js",
+    "service-worker.js": "/React-Recipy-App/service-worker.js",
+    "static/css/main.5204a4df.chunk.css.map": "/React-Recipy-App/static/css/main.5204a4df.chunk.css.map",
+    "static/js/2.7ef72192.chunk.js.LICENSE.txt": "/React-Recipy-App/static/js/2.7ef72192.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.423390a8.js",
+    "static/js/2.7ef72192.chunk.js",
+    "static/css/main.5204a4df.chunk.css",
+    "static/js/main.434016d3.chunk.js"
+  ]
+}
